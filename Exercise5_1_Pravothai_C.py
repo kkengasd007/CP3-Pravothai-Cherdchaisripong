@@ -1,0 +1,10 @@
+a=int(input("FirstNumber :"))
+b=int(input("SecondNumber :"))
+P=a+b
+M=a-b
+C=a*b
+D=a/b
+print("a + b =",P)
+print("a - b =",M)
+print("a * b =",C)
+print("a / b =",D)
